@@ -1,5 +1,3 @@
-
-```markdown
 # PC16 – Week 14: Two-Screen Static UI (TasteTrove)
 
 - **Student Name:** Ismael Haven Caday
